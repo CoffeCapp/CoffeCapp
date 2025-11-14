@@ -1,3 +1,6 @@
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
+![github-user-contribution (1)](https://github.com/user-attachments/assets/55c379e4-4f96-4e2d-a10a-e0ea69b4e85e)
+
 # Привет, я Арина! 👋
 
 ## Обо мне
@@ -20,4 +23,5 @@
   "I'm just a man — Epic the musical"
 
 ![ААА](https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif)
+
 

@@ -8,7 +8,7 @@
 - 🌱 Изучаю программирование.
 - 📫 Как со мной связаться: никак.
 
-## Любимые строчки песни
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b4a7d6&lines=Немного+неважной+информации)](https://git.io/typing-svg)
 
  I'm just a man who's trying to go home
  
@@ -23,5 +23,6 @@
   "I'm just a man — Epic the musical"
 
 ![ААА](https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif)
+
 
 
